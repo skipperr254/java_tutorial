@@ -13,3 +13,10 @@
 12. srand() --> seeds a pseudo random number for rand()
 13. strtol() --> converts a string to an integer
 14. strtoull() --> converts string to unsigned long long int
+
+### unistd.h (standard symbolic constants and types)
+
+### sys/types.h (data types)
+Collection of typedef symbols and structures
+Find details [here](https://pubs.opengroup.org/onlinepubs/007904875/basedefs/sys/types.h.html) and [here](https://www.ibm.com/docs/en/zos/3.1.0?topic=files-systypesh-typedef-symbols-structures)
+
